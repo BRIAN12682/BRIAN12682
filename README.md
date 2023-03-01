@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BRIAN12682
 - 👀 I’m interested in developing software and internet of things devices.
-- 🌱 I’m currently learning python, css, html, dart, flutter, django
+- 🌱 I’m currently well comfortable with python, css, html, dart, flutter, django, django, kivy, css 
 - 💞️ I’m looking to collaborate on projects and good work.
 - 📫 How to reach me atbrian19@gmail.com, +256703737481, +256772618818
 
