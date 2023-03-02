@@ -47,4 +47,4 @@ You can click the Preview link to take a look at your changes.
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=BRIAN12682&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BRIAN12682)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BRIAN12682)](https://github.com/BRIAN12682/github-readme-stats)
