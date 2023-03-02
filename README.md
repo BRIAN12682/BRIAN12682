@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <img src="https://github-readme-stats.vercel.app/api?username=BRIAN12682&show_icons=true&theme=ADD_THEME_HERE" width="400">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BRIAN12682&theme=onedark&hide_border=true&border_radius=6)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=BRIAN12682)](https://git.io/streak-stats)
