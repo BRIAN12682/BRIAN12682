@@ -1,3 +1,22 @@
+SOCIAL MEDIA COMMUNICATION
+
+<!-- display the social media buttons in your README -->
+
+[![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook))][1]
+[![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][2]
+[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][3]
+[![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (Github))][4]
+<whatsapp-button phone="703737481" dialcode="256" text="hello!" label="Start Chat"></whatsapp-button>
+
+<!-- To Link your profile to the media buttons -->
+
+[1]: https://www.facebook.com/profile.php?id=100066431362210
+[2]: https://twitter.com/SsuubiBrian
+[3]: https://www.linkedin.com/in/alabyekkubo-ssuubi-brian-b3851323b/
+[4]: https://www.github.com/BRIAN12682
+
+
+
 
 - 👋 Hi, I’m @BRIAN12682
 - 👀 I’m interested in developing software and internet of things devices.
