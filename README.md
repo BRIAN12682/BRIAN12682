@@ -1,3 +1,6 @@
+
+<img src="https://user-images.githubusercontent.com/97894246/188414678-06418efe-f622-40ee-8a9c-a43dd2fc3969.gif" alt="Alt text"></img>
+
 YOU CAN CONTACT ME ON THE FOLLOWING SOCIAL MEDIA LINKS
 
 <!-- display the social media buttons in your README -->
