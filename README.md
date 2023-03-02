@@ -1,4 +1,4 @@
-SOCIAL MEDIA COMMUNICATION
+YOU CAN CONTACT ME ON THE FOLLOWING SOCIAL MEDIA LINKS
 
 <!-- display the social media buttons in your README -->
 
@@ -6,7 +6,6 @@ SOCIAL MEDIA COMMUNICATION
 [![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][2]
 [![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][3]
 [![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (Github))][4]
-<whatsapp-button phone="703737481" dialcode="256" text="hello!" label="Start Chat"></whatsapp-button>
 
 <!-- To Link your profile to the media buttons -->
 
@@ -18,7 +17,7 @@ SOCIAL MEDIA COMMUNICATION
 
 
 
-- 👋 Hi, I’m @BRIAN12682
+- 👋 Hi, I’m ALABYEKKUBO SSUUBI BRIAN  @BRIAN12682
 - 👀 I’m interested in developing software and internet of things devices.
 - 🌱 I’m currently well comfortable with python, css, html, dart, flutter, django, django, kivy, css 
 - 💞️ I’m looking to collaborate on projects and good work.
@@ -47,4 +46,4 @@ You can click the Preview link to take a look at your changes.
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=BRIAN12682&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BRIAN12682)](https://github.com/BRIAN12682/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BRIAN12682&langs_count=7)](https://github.com/BRIAN12682/github-readme-stats)
