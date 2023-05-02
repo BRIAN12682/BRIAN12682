@@ -25,8 +25,16 @@ YOU CAN CONTACT ME ON THE FOLLOWING SOCIAL MEDIA LINKS
 - 🌱 I’m currently well comfortable with python, css, html, dart, flutter, django, django, kivy, css 
 - 💞️ I’m looking to collaborate on projects and good work.
 - 📫 How to reach me atbrian19@gmail.com, +256703737481, +256772618818
+SKILLS AND ABILITIES.
+ Proficient in Python, C, and embedded C (C/C++) programming languages, Bootstrap
+Familiarity with Git, GitHub, PyCharm, and VS Code software development tools.
+Ability to work with embedded systems and microcontrollers such as Arduino.
+Knowledge of machine learning algorithms and frameworks such as TensorFlow, Scikit-learn, and Keras.
+Experience with relational databases such as MySQL.
+Knowledge of web development concepts, including HTML, CSS, and JavaScript frameworks such as React and Angular.
+Strong understanding of data structures and algorithms.
 
-Mobile and web development and design. Machine learning.
+Mobile Application and web development and design. Machine learning.
 Automation, Data-science, 
 
 I started my programming  career with mainly the web-systems development in Django. i further progressed it with Mobile app development with flutter then web development but after some time i found it interesting to integrate applications with machine learning in order to make them more efficient and productive and carry out automation projects using tkinter and pygame. i have worked alo on embedded systems programming and so many other projects in the due course.
