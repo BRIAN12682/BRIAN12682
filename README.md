@@ -25,8 +25,10 @@ YOU CAN CONTACT ME ON THE FOLLOWING SOCIAL MEDIA LINKS
 - 🌱 I’m currently well comfortable with python, css, html, dart, flutter, django, django, kivy, css 
 - 💞️ I’m looking to collaborate on projects and good work.
 - 📫 How to reach me atbrian19@gmail.com, +256703737481, +256772618818
-SKILLS AND ABILITIES.
- Proficient in Python, C, and embedded C (C/C++) programming languages, Bootstrap
+- 
+- SKILLS AND ABILITIES.
+- 
+ I am proficient in Python, C, and embedded C (C/C++) programming languages, Bootstrap
 Familiarity with Git, GitHub, PyCharm, and VS Code software development tools.
 Ability to work with embedded systems and microcontrollers such as Arduino.
 Knowledge of machine learning algorithms and frameworks such as TensorFlow, Scikit-learn, and Keras.
