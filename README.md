@@ -36,15 +36,15 @@ Experience with relational databases such as MySQL.
 Knowledge of web development concepts, including HTML, CSS, and JavaScript frameworks such as React and Angular.
 Strong understanding of data structures and algorithms.
 
-Mobile Application and web development and design. Machine learning.
+Mobile application and web development and design. Machine learning.
 Automation, Data-science, 
 
-I started my programming  career with mainly the web-systems development in Django. i further progressed it with Mobile app development with flutter then web development but after some time i found it interesting to integrate applications with machine learning in order to make them more efficient and productive and carry out automation projects using tkinter and pygame. i have worked alo on embedded systems programming and so many other projects in the due course.
+I started my programming career with mainly web-systems development in Django. I further progressed with mobile app development with Flutter and then web development, but after some time, I found it interesting to integrate applications with machine learning in order to make them more efficient and productive and carry out automation projects using Tkinter and Python. I have also worked on embedded systems programming and so many other projects in the near future.
 
 * 🌍  I'm based in Kampala, Uganda
 * ✉️  You can contact me at [atbrian19@gmail.com](mailto:atbrian19@gmail.com)
 * 🧠  I'm steadily progressing in the above mentioned fields and soon looking at Robotics in Python.
-* 🤝  I'm open to collaborating on all fields of software development and software construction plus internet of thnings.
+* 🤝  I'm open to collaborating on all fields of software development and software construction, plus the internet of things.
 
 
 <!---
