@@ -43,7 +43,7 @@ I started my programming career with mainly web-systems development in Django. I
 * 🧠  I'm steadily progressing in the above mentioned fields and soon looking at Robotics in Python.
 * 🤝  I'm open to collaborating on all fields of software development and software construction, plus the internet of things.
 
-![ALABYEKKUBO's GitHub stats](https://github-readme-stats.vercel.app/api?username=BRIAN12682&show_icons=true&theme=radical)
+[![ALABYEKKUBO's GitHub stats](https://github-readme-stats.vercel.app/api?username=BRIAN12682)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BRIAN12682&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
