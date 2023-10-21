@@ -3,14 +3,11 @@
 
 YOU CAN CONTACT ME ON THE FOLLOWING SOCIAL MEDIA LINKS
 
-<!-- display the social media buttons in your README -->
-
 [![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook))][1]
 [![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][2]
 [![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][3]
 [![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (Github))][4]
 
-<!-- To Link your profile to the media buttons -->
 
 [1]: https://www.facebook.com/profile.php?id=100066431362210
 [2]: https://twitter.com/SsuubiBrian
@@ -24,7 +21,7 @@ YOU CAN CONTACT ME ON THE FOLLOWING SOCIAL MEDIA LINKS
 - 👀 I’m interested in developing software and internet of things devices.
 - 🌱 I’m currently well comfortable with python, css, html, dart, flutter, django, django, kivy, css 
 - 💞️ I’m looking to collaborate on projects and good work.
-- 📫 How to reach me atbrian19@gmail.com, +256703737481, +256772618818
+- 📫 How to reach me atbrian19@gmail.com, +256703737481.
 - 
 - SKILLS AND ABILITIES.
 - 
@@ -46,13 +43,7 @@ I started my programming career with mainly web-systems development in Django. I
 * 🧠  I'm steadily progressing in the above mentioned fields and soon looking at Robotics in Python.
 * 🤝  I'm open to collaborating on all fields of software development and software construction, plus the internet of things.
 
-
-<!---
-BRIAN12682/BRIAN12682 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-![BRIAN12682's GitHub stats](https://github-readme-stats.vercel.app/api?username=BRIAN12682&show_icons=true&theme=radical)
+![ALABYEKKUBO's GitHub stats](https://github-readme-stats.vercel.app/api?username=BRIAN12682&show_icons=true&theme=radical)
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BRIAN12682&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
