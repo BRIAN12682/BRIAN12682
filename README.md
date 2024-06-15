@@ -1,4 +1,3 @@
-
 <img src="https://user-images.githubusercontent.com/97894246/188414678-06418efe-f622-40ee-8a9c-a43dd2fc3969.gif" alt="Welcome to my GitHub profile!"></img>
 
 # Welcome to My GitHub Profile!
@@ -13,6 +12,8 @@ Hello! I'm **ALABYEKKUBO SSUUBI BRIAN** (@BRIAN12682), a passionate developer fr
 - 📫 **Contact:** [atbrian19@gmail.com](mailto:atbrian19@gmail.com), +256703737481.
 
 ## 🛠️ Skills and Abilities
+
+<img src="https://user-images.githubusercontent.com/97894246/188415678-12345efe-d332-40ee-8a9c-a44dd2fd3969.gif" alt="Skills and Abilities"></img>
 
 - **Programming Languages:** Proficient in Python, C, and embedded C (C/C++).
 - **Development Tools:** Familiarity with Git, GitHub, PyCharm, and VS Code.
