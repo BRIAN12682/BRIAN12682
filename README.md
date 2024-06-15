@@ -5,7 +5,7 @@
 Hello! I'm **ALABYEKKUBO SSUUBI BRIAN** (@BRIAN12682), a passionate developer from Kampala, Uganda. I have a deep interest in automating tasks, developing software, building machine learning models, creating Internet of Things (IoT) devices, and providing meaningful insights from data. 
 
 ## 🌟 About Me
-
+<img src="https://github.com/BRIAN12682/BRIAN12682/blob/main/R(1).gif" alt="Skills and Abilities"></img>
 - 👀 **Interests:** Machine Learning, Data Science, IoT, and Software Development.
 - 🌱 **Skills:** Python, CSS, HTML, Dart, Flutter, Django, Kivy, C, C++, Embedded C, Bootstrap.
 - 💞️ **Collaboration:** Always looking to collaborate on innovative projects.
@@ -23,7 +23,7 @@ Hello! I'm **ALABYEKKUBO SSUUBI BRIAN** (@BRIAN12682), a passionate developer fr
 - **Fundamentals:** Strong understanding of data structures and algorithms.
 
 ## 🏆 My Journey
-
+<img src="https://github.com/BRIAN12682/BRIAN12682/blob/main/R.gif" alt="Skills and Abilities"></img>
 I started my programming career with web development in Django, then expanded to mobile app development with Flutter. My journey led me to integrate applications with machine learning to enhance efficiency and productivity. I have also worked on automation projects using Tkinter and Python, and embedded systems programming. I'm steadily progressing in these fields and am keen on exploring Robotics in Python.
 
 ## 🌍 Location and Contact
