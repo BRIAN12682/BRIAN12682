@@ -12,7 +12,7 @@ Hello! I'm **ALABYEKKUBO SSUUBI BRIAN** (@BRIAN12682), a passionate developer fr
 - 📫 **Contact:** [atbrian19@gmail.com](mailto:atbrian19@gmail.com), +256703737481.
 
 ## 🛠️ Skills and Abilities
-<img src="https://github.com/BRIAN12682/BRIAN12682/blob/main/tenor.gif" alt="Skills and Abilities"></img>
+<img src="https://github.com/BRIAN12682/BRIAN12682/blob/main/1365101-921132596.gif" alt="Skills and Abilities"></img>
 
 - **Programming Languages:** Proficient in Python, C, and embedded C (C/C++).
 - **Development Tools:** Familiarity with Git, GitHub, PyCharm, and VS Code.
