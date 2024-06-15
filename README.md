@@ -18,7 +18,7 @@ YOU CAN CONTACT ME ON THE FOLLOWING SOCIAL MEDIA LINKS
 
 
 - 👋 Hi, I’m ALABYEKKUBO SSUUBI BRIAN  @BRIAN12682
-- 👀 I’m interested in developing software and internet of things devices.
+- 👀 I’m interested in automating tasks,developing software, machine learning models,and internet of things devices as well as providing meaningful insights from Data.
 - 🌱 I’m currently well comfortable with python, css, html, dart, flutter, django, django, kivy, css 
 - 💞️ I’m looking to collaborate on projects and good work.
 - 📫 How to reach me atbrian19@gmail.com, +256703737481.
