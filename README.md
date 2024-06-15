@@ -36,24 +36,22 @@ I started my programming career with web development in Django, then expanded to
 - **Phone:** +256703737481
 - <img src="https://github.com/BRIAN12682/BRIAN12682/blob/main/tenor.gif" alt="Skills and Abilities"></img>
 
-## 🤝 Let's Connect
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/lkainrr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mukisaivan/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCBebdyjiTZJX6Fk4qUgHBlQ) 
+## 🤝 Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/[https://www.linkedin.com/in/mukisaivan/]https://www.linkedin.com/in/alabyekkubo-ssuubi-brian-b3851323b/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]([https://youtube.com/@https://www.youtube.com/channel/UCBebdyjiTZJX6Fk4qUgHBlQ](https://youtube.com/@alabyekkubossuubibrian6427?feature=shared)) 
 
 
 
-You can reach me on the following social media platforms:
 
-[![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png)][1]
-[![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png)][2]
-[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png)][3]
-[![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png)][4]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alabyekkubo-ssuubi-brian-b3851323b/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCBebdyjiTZJX6Fk4qUgHBlQ)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/BRIAN12682)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)]([https://www.facebook.com/yourusername](https://www.facebook.com/profile.php?id=100066431362210))
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/SsuubiBrian)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/+2567037481)
 
-[1]: https://www.facebook.com/profile.php?id=100066431362210
-[2]: https://twitter.com/SsuubiBrian
-[3]: https://www.linkedin.com/in/alabyekkubo-ssuubi-brian-b3851323b/
-[4]: https://www.github.com/BRIAN12682
+
+
+
 
 ## 📊 GitHub Stats
 
