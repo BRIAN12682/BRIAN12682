@@ -12,7 +12,7 @@ Hello! I'm **ALABYEKKUBO SSUUBI BRIAN** (@BRIAN12682), a passionate developer fr
 - 📫 **Contact:** [atbrian19@gmail.com](mailto:atbrian19@gmail.com), +256703737481.
 
 ## 🛠️ Skills and Abilities
-<img src="https://user-images.githubusercontent.com/97894246/188415678-12345efe-d332-40ee-8a9c-a44dd2fd3969.gif" alt="Skills and Abilities"></img>
+<img src="https://github.com/BRIAN12682/BRIAN12682/blob/main/tenor.gif" alt="Skills and Abilities"></img>
 
 - **Programming Languages:** Proficient in Python, C, and embedded C (C/C++).
 - **Development Tools:** Familiarity with Git, GitHub, PyCharm, and VS Code.
@@ -31,6 +31,7 @@ I started my programming career with web development in Django, then expanded to
 - **Location:** Kampala, Uganda
 - **Email:** [atbrian19@gmail.com](mailto:atbrian19@gmail.com)
 - **Phone:** +256703737481
+- <img src="https://github.com/BRIAN12682/BRIAN12682/blob/main/tenor.gif" alt="Skills and Abilities"></img>
 
 ## 🤝 Let's Connect
 
