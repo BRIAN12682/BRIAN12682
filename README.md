@@ -4,8 +4,59 @@
 
 Hello! I'm **ALABYEKKUBO SSUUBI BRIAN** (@BRIAN12682), a passionate developer from Kampala, Uganda. I have a deep interest in automating tasks, developing software, building machine learning models, creating Internet of Things (IoT) devices, and providing meaningful insights from data. 
 
-## 🌟 About Me
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=machine-learning&logoColor=white) 
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23780FFA.svg?style=for-the-badge&logo=deep-learning&logoColor=white) 
+![Natural Language Processing](https://img.shields.io/badge/NLP-%234ea94b.svg?style=for-the-badge&logo=natural-language-processing&logoColor=white) 
+![Transformers](https://img.shields.io/badge/Transformers-%23E34F26.svg?style=for-the-badge&logo=transformers&logoColor=white) 
+![HuggingFace](https://img.shields.io/badge/HuggingFace-%23F7931E.svg?style=for-the-badge&logo=huggingface&logoColor=white) 
+![Ubuntu Terminal](https://img.shields.io/badge/Ubuntu%20Terminal-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Virtualization](https://img.shields.io/badge/Virtualization-%23607088.svg?style=for-the-badge&logo=virtualization&logoColor=white) 
+![CircleCI](https://img.shields.io/badge/CircleCI-%23343434.svg?style=for-the-badge&logo=circleci&logoColor=white) 
+![API Development](https://img.shields.io/badge/API%20Development-%2343853D.svg?style=for-the-badge&logo=api-development&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
+![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)  
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) 
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 
+
+
+## 🌟 About Me
+<img src="https://github.com/BRIAN12682/BRIAN12682/blob/main/R (1).gif" alt="Skills and Abilities"></img>
 - 👀 **Interests:** Machine Learning, Data Science, IoT, and Software Development.
 - 🌱 **Skills:** Python, CSS, HTML, Dart, Flutter, Django, Kivy, C, C++, Embedded C, Bootstrap.
 - 💞️ **Collaboration:** Always looking to collaborate on innovative projects.
@@ -13,7 +64,6 @@ Hello! I'm **ALABYEKKUBO SSUUBI BRIAN** (@BRIAN12682), a passionate developer fr
 
 ## 🛠️ Skills and Abilities
 <img src="https://github.com/BRIAN12682/BRIAN12682/blob/main/1365101-921132596.gif" alt="Skills and Abilities"></img>
-
 - **Programming Languages:** Proficient in Python, C, and embedded C (C/C++).
 - **Development Tools:** Familiarity with Git, GitHub, PyCharm, and VS Code.
 - **Embedded Systems:** Experience with Arduino and other microcontrollers.
@@ -23,7 +73,7 @@ Hello! I'm **ALABYEKKUBO SSUUBI BRIAN** (@BRIAN12682), a passionate developer fr
 - **Fundamentals:** Strong understanding of data structures and algorithms.
 
 ## 🏆 My Journey
-
+<img src="https://github.com/BRIAN12682/BRIAN12682/blob/main/R.gif" alt="Skills and Abilities"></img>
 I started my programming career with web development in Django, then expanded to mobile app development with Flutter. My journey led me to integrate applications with machine learning to enhance efficiency and productivity. I have also worked on automation projects using Tkinter and Python, and embedded systems programming. I'm steadily progressing in these fields and am keen on exploring Robotics in Python.
 
 ## 🌍 Location and Contact
@@ -33,19 +83,14 @@ I started my programming career with web development in Django, then expanded to
 - **Phone:** +256703737481
 - <img src="https://github.com/BRIAN12682/BRIAN12682/blob/main/tenor.gif" alt="Skills and Abilities"></img>
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-ssuubi-alabyekkubo-b3851323b)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@alabyekkubossuubibrian6427)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100066431362210)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=purple)](https://github.com/BRIAN12682)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/SsuubiBrian)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/+256703737481)
 
-You can reach me on the following social media platforms:
-
-[![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png)][1]
-[![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png)][2]
-[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png)][3]
-[![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png)][4]
-
-[1]: https://www.facebook.com/profile.php?id=100066431362210
-[2]: https://twitter.com/SsuubiBrian
-[3]: https://www.linkedin.com/in/alabyekkubo-ssuubi-brian-b3851323b/
-[4]: https://www.github.com/BRIAN12682
 
 ## 📊 GitHub Stats
 
