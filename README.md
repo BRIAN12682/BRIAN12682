@@ -86,7 +86,7 @@ I started my programming career with web development in Django, then expanded to
 - **Location:** Kampala, Uganda
 - **Email:** [atbrian19@gmail.com](mailto:atbrian19@gmail.com)
 - **Phone:** +256703737481
-- <img src="https://github.com/BRIAN12682/BRIAN12682/blob/main/tenor.gif" alt="Skills and Abilities"></img>
+<img src="https://github.com/BRIAN12682/BRIAN12682/blob/main/tenor.gif" alt="Skills and Abilities"></img>
 
 ## 🤝 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-ssuubi-alabyekkubo-b3851323b)
