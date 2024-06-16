@@ -73,7 +73,7 @@ Hello! I'm **ALABYEKKUBO SSUUBI BRIAN** (@BRIAN12682), a passionate developer fr
 
 ## 🏆 My Journey
 <img src="https://github.com/BRIAN12682/BRIAN12682/blob/main/R.gif" alt="Skills and Abilities"></img>
-I started my programming career with web development in Django, then expanded to mobile app development with Flutter. My journey led me to integrate applications with machine learning to enhance efficiency and productivity. I have also worked on automation projects using Tkinter and Python, and embedded systems programming. I'm steadily progressing in these fields and am keen on exploring Robotics in Python.
+I started my programming career with web development in Django, then expanded to mobile app development with Flutter. My journey led me to integrate applications with machine learning to enhance efficiency and productivity. I have also worked on automation projects using Tkinter and Python, and embedded systems programming. I'm steadily progressing in these fields and am keen on exploring Robotics in Python.(As of 2022 October)
 
 ## 🌍 Location and Contact
 
