@@ -61,15 +61,21 @@ Hello! I'm **ALABYEKKUBO SSUUBI BRIAN** (@BRIAN12682), a passionate developer fr
 - 💞️ **Collaboration:** Always looking to collaborate on innovative projects.
 - 📫 **Contact:** [atbrian19@gmail.com](mailto:atbrian19@gmail.com), +256703737481.
 
-## 🛠️ Skills and Abilities
+## 🛠️ Soft-Skills and Abilities
 <img src="https://github.com/BRIAN12682/BRIAN12682/blob/main/1365101-921132596.gif" alt="Skills and Abilities"></img>
-- **Programming Languages:** Proficient in Python, C, and embedded C (C/C++).
-- **Development Tools:** Familiarity with Git, GitHub, PyCharm, and VS Code.
-- **Embedded Systems:** Experience with Arduino and other microcontrollers.
-- **Machine Learning:** Knowledge of TensorFlow, Scikit-learn, and Keras.
-- **Databases:** Experience with MySQL.
-- **Web Development:** Proficient in HTML, CSS, and JavaScript frameworks like React and Angular.
-- **Fundamentals:** Strong understanding of data structures and algorithms.
+- Problem-solving skills
+- Critical Thinking
+- Teamwork and Collaboration
+- Effective Communication
+- Adaptability and Flexibility
+- Time Management
+- Attention to Detail
+- Empathy and Emotional Intelligence
+- Creativity and Innovation
+- Resilience and Stress Management
+- Ethical Judgement and Integrity
+- Continuous Learning
+
 
 ## 🏆 My Journey
 <img src="https://github.com/BRIAN12682/BRIAN12682/blob/main/R.gif" alt="Skills and Abilities"></img>
