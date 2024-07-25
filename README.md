@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/97894246/188414678-06418efe-f622-40ee-8a9c-a43dd2fc3969.gif" alt="Welcome to my GitHub profile!"></img>
 
-# Welcome to My GitHub Profile!
+# Welcome to My Profile!
 
 Hello! I'm **ALABYEKKUBO SSUUBI BRIAN** (@BRIAN12682), a passionate developer from Kampala, Uganda. I have a deep interest in automating tasks, developing software, building machine learning models, creating Internet of Things (IoT) devices, and providing meaningful insights from data. 
 
