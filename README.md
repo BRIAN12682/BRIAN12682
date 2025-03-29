@@ -63,9 +63,9 @@ Hello! I'm **ALABYEKKUBO SSUUBI BRIAN** (@alabyekkubo-ssuubi-brian), a passionat
 ## 🌟 About Me
 <img src="https://github.com/alabyekkubo-ssuubi-brian/alabyekkubo-ssuubi-brian/blob/main/R (1).gif" alt="Skills and Abilities"></img>
 - 👀 **Interests:** Machine Learning, Data Science, IoT, and Software Development.
-- 🌱 **Skills:** Python, CSS, HTML, Dart, Flutter, Django, Kivy, C, C++, Embedded C, Bootstrap, React.
+- 🌱 **Skills:** Python, CSS, HTML, Js, Dart, Flutter, Django, Kivy, C, C++, Embedded C, Bootstrap, React.
 - 💞️ **Collaboration:** Always looking to collaborate on innovative projects.
-- 📫 **Contact:** [atbrian19@gmail.com](mailto:atbrian19@gmail.com), +256703737481.
+- 📫 **Contact:** [atbrian19@gmail.com](mailto:atbrian19@gmail.com), +256703737481,+256768053861.
 
 ## 🛠️ Soft-Skills and Abilities
 <img src="https://github.com/alabyekkubo-ssuubi-brian/alabyekkubo-ssuubi-brian/blob/main/1365101-921132596.gif" alt="Skills and Abilities"></img>
